@@ -14,7 +14,13 @@ This Official (ISC)² Certified in Cybersecurity (CC) self-paced course provides
 
 ## Domain
 
-<table><thead><tr><th>Domains</th><th align="center">Average Weight</th><th data-type="checkbox">Completion</th></tr></thead><tbody><tr><td>Security Principles</td><td align="center">26%</td><td>true</td></tr><tr><td>Business Continuity (BC), Disaster Recovery (DR) &#x26; Incident Response Concepts</td><td align="center">10%</td><td>true</td></tr><tr><td>Access Controls Concepts</td><td align="center">22%</td><td>true</td></tr><tr><td>Network Security</td><td align="center">24%</td><td>true</td></tr><tr><td>Security Operations</td><td align="center">18%</td><td>true</td></tr></tbody></table>
+| Domains                                                                                   | Average Weight |
+| ----------------------------------------------------------------------------------------- | :------------: |
+| [Security Principles](notes/)                                                             |       26%      |
+| [Business Continuity (BC), Disaster Recovery (DR) & Incident Response Concepts](notes-1/) |       10%      |
+| [Access Controls Concepts](notes-2/)                                                      |       22%      |
+| [Network Security](notes-3/)                                                              |       24%      |
+| [Security Operations](notes-4/)                                                           |       18%      |
 
 ## Files
 
