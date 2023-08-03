@@ -4,7 +4,7 @@ description: Domain D3.2, D3.2.3, D3.2.4, D3.2.5
 
 # Module 3: Understand Logical Access Controls
 
-### What are Logical Access Controls?
+## What are Logical Access Controls?
 
 Whereas physical access controls are tangible methods or mechanisms that limit someone from getting access to an area or asset, logical access controls are electronic methods that limit someone from getting access to systems, and sometimes even to tangible assets or areas. Types of logical access controls include:
 
@@ -14,7 +14,7 @@ Whereas physical access controls are tangible methods or mechanisms that limit s
 
 These types of electronic tools limit who can get logical access to an asset, even if the person already has physical access.
 
-#### Discretionary Access Control (DAC)
+### Discretionary Access Control (DAC)
 
 Discretionary access control (DAC) is a specific type of access control policy that is **enforced over all subjects and objects in an information system**. In DAC, the policy specifies that **a subject who has been granted access to information can do one or more of the following**:
 
@@ -28,7 +28,9 @@ Discretionary access control (DAC) is a specific type of access control policy t
 
 This methodology relies on the discretion of the owner of the access control object to determine the access control subject’s specific rights. Hence, security of the object is literally up to the discretion of the object owner. DACs are not very scalable; they rely on the access control decisions made by each individual object owner, and it can be difficult to find the source of access control issues when problems occur.
 
-#### Mandatory Access Control (MAC)
+![](../.gitbook/assets/image.png)
+
+### Mandatory Access Control (MAC)
 
 A mandatory access control (MAC) policy is one that is **uniformly enforced across all subjects and objects within the boundary of an information system**. In simplest terms, **this means that only properly designated security administrators, as trusted subjects, can modify any of the security rules that are established for subjects and objects within the system**. This also means that for all subjects defined by the organization (that is, known to its integrated identity management and access control system), the organization assigns a subset of total privileges for a subset of objects, such that the subject is constrained from doing any of the following:
 

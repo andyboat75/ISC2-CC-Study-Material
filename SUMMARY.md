@@ -18,6 +18,7 @@
   * [Module 2: Understand Physical Access Controls](notes-2/module-2-understand-physical-access-controls/README.md)
     * [Monitoring](notes-2/module-2-understand-physical-access-controls/monitoring.md)
   * [Module 3: Understand Logical Access Controls](notes-2/module-3-understand-logical-access-controls.md)
+  * [Terms & Definitions](notes-2/terms-and-definitions.md)
 * [Chapter 4: Network Security](notes-3/README.md)
   * [Module 1: Understand Computer Networking](notes-3/module-1-understand-computer-networking.md)
   * [Module 2 Understand Network (Cyber) Threats and Attacks](notes-3/module-2-understand-network-cyber-threats-and-attacks.md)
