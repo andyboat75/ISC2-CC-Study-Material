@@ -23,10 +23,33 @@ The priority of any incident response is to protect life, health and s
 
 The incident response policy should reference **an incident response plan** that all employees will follow, depending on their role in the process. **The plan may contain several procedures and standards related to incident response**. It is a living representation of an organization’s incident response policy. The organization’s vision, strategy and mission should shape the incident response process. Procedures to implement the plan should define the technical processes, techniques, checklists and other tools that teams will use when responding to an incident.
 
-* Preparation: Develop a policy approved by management; **Identify critical data and systems**, **single points of failure**; **Train staff on incident response**; Implement an incident response team. (covered in subsequent topic); Practice Incident Identification. (First Response); Identify Roles and Responsibilities; Plan the coordination of communication between stakeholders; **Consider the possibility that a primary method of communication may not be available.**
-* Detection and Analysis: Monitor all possible attack vectors; Analyze incident using known data and threat intelligence; Prioritize incident response; Standardize incident documentation;
-* Containment, eradication and recovery: Gather evidence; Choose an appropriate containment strategy; Identify the attacker; Isolate the attack.
-* Post-incident activity: Identify evidence that may need to be retained. Document lessons learned. Retrospective, Preparation, Detection and Analysis, Containment, Eradication and Recovery Post-incident Activity.
+1. Preparation: \
+
+   * Develop a policy approved by management;
+   * &#x20;**Identify critical data and systems**, **single points of failure**;&#x20;
+   * **Train staff on incident response**;
+   * &#x20;Implement an incident response team. (covered in subsequent topic);&#x20;
+   * Practice Incident Identification. (First Response);&#x20;
+   * Identify Roles and Responsibilities;
+   * &#x20;Plan the coordination of communication between stakeholders;
+   * &#x20;**Consider the possibility that a primary method of communication may not be available.**
+2. Detection and Analysis:
+   * &#x20;Monitor all possible attack vectors;
+   * &#x20;Analyze incident using known data and threat intelligence;&#x20;
+   * Prioritize incident response;
+   * &#x20;Standardize incident documentation;
+3. Containment, eradication and recovery:&#x20;
+   * Gather evidence;&#x20;
+   * Choose an appropriate containment strategy;
+   * &#x20;Identify the attacker; Isolate the attack.
+4. Post-incident activity:
+   * &#x20;Identify evidence that may need to be retained.&#x20;
+   * Document lessons learned.&#x20;
+   * Retrospective,&#x20;
+     * Preparation
+     * &#x20;Detection and Analysis
+     * &#x20;Containment
+     * &#x20;Eradication and Recovery Post-incident Activity.
 
 ### Incident Response Team
 
