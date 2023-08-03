@@ -9,6 +9,7 @@
   * [Risk Management](notes/risk-management/README.md)
     * [Risk Management](<Notes/Risk Management/Risk Management.md>)
 * [Chapter 2: Incident Response, Business Continuity and Disaster Recovery Concepts](notes-1/README.md)
+  * [Terms and Definitions](notes-1/terms-and-definitions.md)
   * [Module 1: Understand Incident Response](notes-1/module-1-understand-incident-response.md)
   * [Module 2 Understand Business Continuity (BC)](notes-1/module-2-understand-business-continuity-bc.md)
   * [Module 3: Understand Disaster Recovery (DR)](notes-1/module-3-understand-disaster-recovery-dr.md)
