@@ -131,19 +131,25 @@ The first octet of **127 is reserved for a computer’s loopback address**. Usua
 
 IPv6 is a modernization of IPv4, which addressed a number of weaknesses in the IPv4 environment:
 
+{% code overflow="wrap" %}
 ```
 * A much larger address field: IPv6 addresses are **128 bits**, which supports 2128 or 340,282,366,920,938,463,463,374,607,431,768,211,456 hosts. **This ensures that we will not run out of addresses**.
 * Improved security:** IPsec is an optional part of IPv4 networks, but a mandatory component of IPv6 networks**. This will help ensure the integrity and confidentiality of IP packets and allow communicating partners **to authenticate with each other**.
 * Improved quality of service (QoS): This will help services obtain an appropriate share of a network’s bandwidth.
 ```
+{% endcode %}
 
 An IPv6 address is shown as **8 groups of four digits**. Instead of numeric (0-9) digits like IPv4, **IPv6 addresses use the hexadecimal range (0000-ffff) and are separated by colons (:)** rather than periods (.). An example IPv6 address is **2001:0db8:0000:0000:0000:ffff:0000:0001**. To make it easier for humans to read and type, it can be shortened by removing the leading zeros at the beginning of each field and substituting two colons (::) for the longest consecutive zero fields. All fields must retain at least one digit. After shortening, the example address above is rendered as 2001:db8::ffff:0:1, which is much easier to type. As in IPv4, there are some addresses and ranges that are reserved for special uses:
 
+
+
+{% code overflow="wrap" lineNumbers="true" fullWidth="false" %}
 ```
 * ::1 is the local loopback address, used the same as 127.0.0.1 in IPv4.
 * The range 2001:db8:: to 2001:db8:ffff:ffff:ffff:ffff:ffff:ffff is reserved for documentation use, just like in the examples above.
 * **fc00**:: to **fdff**:ffff:ffff:ffff:ffff:ffff:ffff:ffff are addresses reserved for internal network use and are not routable on the internet.
 ```
+{% endcode %}
 
 ### What is WiFi?
 
