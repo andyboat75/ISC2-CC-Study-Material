@@ -23,6 +23,8 @@
   * [Module 1: Understand Computer Networking](notes-3/module-1-understand-computer-networking.md)
   * [Module 2 Understand Network (Cyber) Threats and Attacks](notes-3/module-2-understand-network-cyber-threats-and-attacks.md)
   * [Module 3 Understand Network Security Infrastructure](notes-3/module-3-understand-network-security-infrastructure.md)
+  * [Summary](notes-3/summary.md)
+  * [Terms & definition](notes-3/terms-and-definition.md)
 * [Chapter 5: Security Operations](notes-4/README.md)
   * [Module 1: Understand Data Security](notes-4/module-1-understand-data-security.md)
   * [Module 2: Understand System Hardening](notes-4/module-2-understand-system-hardening.md)
