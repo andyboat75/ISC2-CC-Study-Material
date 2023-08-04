@@ -30,5 +30,6 @@
   * [Module 2: Understand System Hardening](notes-4/module-2-understand-system-hardening.md)
   * [Module 3: Understand Best Practice Security Policies](notes-4/module-3-understand-best-practice-security-policies.md)
   * [Module 4: Understand Security Awareness Training](notes-4/module-4-understand-security-awareness-training.md)
+  * [Terms and Definitions](notes-4/terms-and-definitions.md)
 * [Flash Card](<Flash Card.md>)
 * [Quiz](Quiz.md)
